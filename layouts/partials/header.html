@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="{{.Site.LanguageCode}}">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#000000">
+<meta name="yandex-verification" content="ac8af3747e569b06" />
+    {{ partial "twitter_card.html" . }}
+
+  	<meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+  	<meta property="og:site_name" content="{{ .Site.Title }}" />
+  	<meta property="og:url" content="{{ .Permalink }}" />
+    <meta name="yandex-verification" content="23300a2a18a79066" />
+    <meta name="p:domain_verify" content="845923c5fea72f40ab7ec6b74215607b"/>
+    <link rel="webmention" href="https://webmention.io/wildan.fauzy.eu.org/webmention" />
+    <link rel="pingback" href="https://webmention.io/wildan.fauzy.eu.org/xmlrpc" />
+    <link rel="microsub" href="https://aperture.p3k.io/microsub/719">
+
+    {{if .Params.image }}
+       <meta property="og:image" content="https://wildan.fauzy.eu.org{{ .Params.image | relURL}}"/>
+    {{else}}
+        {{if .Site.Params.cover}}
+            <meta property="og:image" content="https://wildan.fauzy.eu.org{{ .Site.Params.cover | relURL}}"/>
+        {{end}}
+    {{end}}
+
+    {{ if .IsPage }}
+    <meta property="og:description" content="{{ .Description }}" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}" />
+
+    {{ range .Params.tags }}
+    <meta property="article:tag" content="{{ . }}" />
+    {{ end }}
+    {{ else }}
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{{ .Site.Params.description }}" />
+    {{ end }}
+
+    <title>{{ if ne .URL "/" }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+
+    {{ if .IsPage }}
+    <meta name="description" content="{{ .Description | default (substr .Summary 0 160) }}" />
+    {{ else }}
+    <meta name="description" content="{{ .Site.Params.metadescription | default .Site.Params.description }}" />
+    {{ end }}
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="{{ "gambar/logo.png" | relURL}}">
+	<link rel="apple-touch-icon" href="{{ "gambar/logo.png" | relURL}}" />
+	<link rel="stylesheet" type="text/css" href="{{ "css/layar.css" | relURL}}" />
+        <link rel="stylesheet" type="text/css" href="{{ "css/sayap.css" | relURL}}" />
+       
+    {{ range .Site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ end }}
+
+    {{ if .Site.Params.RSSLink}}
+        <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{else}}
+      {{ if ne .URL "/" }}
+          <link href="{{ "index.xml" | relURL}}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+      {{ end }}
+      {{if .IsNode}}
+        <link href="{{.RSSLink}}" rel="alternate" type="application/rss+xml" title="{{ if ne .URL "/" }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+      {{end}}
+    {{end}}
+    
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ if eq .Section "post"}}
+        {{ partial "semantic.html" . }}
+    {{ end }}
+    {{ if .Site.Params.customHeaderPartial }}
+        {{ partial .Site.Params.customHeaderPartial . }}
+    {{ end }}
+
+    <a href="https://twitter.com/wilfauzy" rel="me"></a>
+    <a href="https://github.com/wilfauzy" rel="me"></a>
+    <a href="mailto:me@wildan.fauzy.eu.org" rel="me"></a>
+    
+</head>
+<body class="nav-closed">
+
+  {{ partial "navigation.html" . }}
+
+ <div class="site-wrapper">

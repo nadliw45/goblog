@@ -1,0 +1,60 @@
+baseurl = "https://fauzy.eu.org"
+copyright = " © Hak Cipta Sebagian."
+disqusshortname = ""
+languagecode = "id-ID"
+paginate = 8
+summaryLength = 25
+title = "Wildan Fauzy Blog"
+[[menu.main]]
+name = "Jurnal"
+url = "https:///medium.com/jurnal"
+weight = 5
+[[menu.main]]
+name = "Notes"
+url = "https:///notes.fauzy.eu.org"
+weight = 4
+[[menu.main]]
+name = "Status"
+url = "https:///status.fauzy.eu.org"
+weight = 6
+[[menu.main]]
+name = "Perpus"
+url = "https:///perpus.fauzy.eu.org"
+weight = 7
+[[menu.main]]
+name = "Cari"
+url = "https:///search.fauzy.eu.org/"
+weight = 1
+[[menu.main]]
+name = "About Us"
+url = "https:///fauzy.eu.org/tentang"
+weight = 8
+[[menu.main]]
+name = "About me"
+url = "https:///wildan.fauzy.eu.org/"
+weight = 10
+[params]
+RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
+author = "wilfauzy"
+authorbio = "Artikel pilihan dari dapur redaksi"
+authorlocation = "Bandung, Indonesia"
+authorwebsite = ""
+cover = "/gambar/welcome.webp"
+description = "Wildan Fauzy Blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda, tulisan apa adanya." 
+disableHugoGeneratorInject = true
+githubName = "wilfauzy"
+hideHUGOSupport = false
+hjsStyle = "default"
+logo = "/gambar/logo.png"
+pinterestName = "wilfauzy"
+twitterName = "wilfauzy"
+[params.social]
+github = "wilfauzy"
+pinteres = "wilfauzy"
+twitter = "wilfauzy"
+[permalinks]
+post = "/:slug/"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
