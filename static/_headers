@@ -1,15 +1,7 @@
 /*
-  X-XSS-Protection: 0
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-
-# This is a comment
-/secure/page
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
-
-/static/*
-  Access-Control-Allow-Origin: *
-  X-Robots-Tag: nosnippet
+  Permissions-Policy: document-domain=()
+  Content-Security-Policy: frame-ancestors 'none';
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
