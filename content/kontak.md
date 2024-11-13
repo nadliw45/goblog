@@ -11,7 +11,7 @@ weight = 7
 +++
 **PENERBIT**
 
-PT. WILBLOG SENTOSA JAYA JENAKA
+WILBLOG JAYA JENAKA
 
 ## **ALAMAT**
 
@@ -19,6 +19,6 @@ Jl. A.H. Nasution No. 101, Cibiru, Kota Bandung, Jawa Barat, Indonesia
 
 ## **EMAIL**
 
-* Redaksi email: redaksi@wildanfauzy.com
-* Kontak email: admin@wildanfauzy.com
-* Report abuse: abuse@wildanfauzy.com
+* Redaksi email: redaksi@wilfauzy.eu.org
+* Kontak email: admin@wilfauzy.eu.org
+* Report abuse: abuse@wilfauzy.eu.org
