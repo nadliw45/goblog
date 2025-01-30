@@ -1,11 +1,12 @@
-+++
-author = "WilFauzy"
-date = 2025-01-28T03:35:00.000Z
-image = "/img/6d948-coffee-cup-working-happy.jpg"
-tags = [ "Share" ]
-title = "Absurdisme: Saat Hidup Terasa Tidak Lucu, Tapi Kita Tertawa Saja"
-url = "/absurditas"
-+++
+---
+author: Redaksi
+tags:
+- Share
+date: 2025-01-29T08:50:16Z
+image: /img/6d948-coffee-cup-working-happy.jpg
+title: Saat Hidup Terasa Tidak Lucu, Tapi Kita Tertawa Saja
+url: /absurditas
+---
 
 
 Kita semua pernah mengalami momen-momen di mana hidup terasa seperti lelucon yang tidak lucu. Misalnya, ketika Anda antre 30 menit di gerai kopi favorit, hanya untuk ditanya, *“Kak, maaf kopinya habis”*. Atau ketika hujan deras tiba-tiba mengguyur tepat setelah Anda mencuci mobil. Atau, yang lebih ekstrem, ketika Anda bekerja keras untuk mencapai sesuatu, lalu tiba-tiba semuanya hancur karena alasan yang sama sekali tidak masuk akal. *“Lah, buat apa semua ini?”* Anda mungkin bergumam. Nah, selamat datang di dunia absurdisme—filsafat yang mengajak kita untuk menertawakan kekacauan itu, meski sambil menggaruk-garuk kepala.  
