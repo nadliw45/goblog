@@ -7,7 +7,7 @@ image: /img/6d948-coffee-cup-working-happy.jpg
 title: Saat Hidup Terasa Tidak Lucu, Tapi Kita Tertawa Saja
 url: /absurditas
 aliases:
-/absurdisme-saat-hidup-terasa-seperti-leluas-yang-tidak-lucu-tapi-kita-tertawa-saja/
+ - /absurdisme-saat-hidup-terasa-seperti-leluas-yang-tidak-lucu-tapi-kita-tertawa-saja/
 ---
 
 
