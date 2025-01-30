@@ -3,7 +3,8 @@ author = "WilFauzy"
 date = 2025-01-28T03:35:00.000Z
 image = "/img/6d948-coffee-cup-working-happy.jpg"
 tags = [ "Share" ]
-title = "Absurdisme: Saat Hidup Terasa Seperti Leluas yang Tidak Lucu, Tapi Kita Tertawa Saja"
+title = "Absurdisme: Saat Hidup Terasa Tidak Lucu, Tapi Kita Tertawa Saja"
+url = "/absurditas"
 +++
 
 
