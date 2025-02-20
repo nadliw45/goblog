@@ -1,1 +1,1 @@
-blog with go become goblog powered by hugo pengen bikin cms
+blog with go become goblog powered by hugo pengen bikin cms gagal cms manual saja
