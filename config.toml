@@ -1,5 +1,5 @@
 baseurl = "https://blog.fauzy.eu.org"
-copyright = " © Hak Cipta Sebagian."
+#copyright = " © Hak Cipta Sebagian."
 disqusshortname = ""
 languagecode = "id-ID"
 paginate = 8
