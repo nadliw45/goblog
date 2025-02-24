@@ -7,7 +7,7 @@ summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
 name = "Jurnal"
-url = "https://medium.com/jurnal"
+url = "https://jurnal.fauzy.eu.org"
 weight = 5
 [[menu.main]]
 name = "Notes"
