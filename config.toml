@@ -22,6 +22,10 @@ name = "Perpus"
 url = "https://perpus.fauzy.eu.org"
 weight = 7
 [[menu.main]]
+name = "Porto"
+url = "https://porto.fauzy.eu.org"
+weight = 8
+[[menu.main]]
 name = "Cari"
 url = "https://search.fauzy.eu.org/"
 weight = 1
