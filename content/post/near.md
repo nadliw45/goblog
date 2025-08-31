@@ -2,9 +2,9 @@
 author: Redaksi
 tags:
 - Share
-date: 2025-03-29T08:50:16Z
+date: 2025-04-29T08:50:16Z
 image: /img/6d948-coffee-cup-working-happy.jpg
-title: Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
+title: Mengenal Near lebih dekat
 url: /near
 ---
 
