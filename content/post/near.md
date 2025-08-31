@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2025-03-29T08:50:16Z
-image: /gambar/near.png
+image: /img/6d948-coffee-cup-working-happy.jpg
 title: Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
 url: /near
 ---
