@@ -5,7 +5,6 @@ tags:
 - Blockchain
 - NEAR
 date: 2025-31-08T08:50:16Z
-image: /img/6d948-coffee-cup-working-happy.jpg
 title: Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
 url: /near-blockchain/
 draft: false
