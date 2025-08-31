@@ -1,13 +1,11 @@
 ---
-author: wilfauzy
+author: Redaksi
 tags:
 - Share
-- Blockchain
-- NEAR
-date: 2025-31-08T08:50:16Z
-title: Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
-url: /near-blockchain/
-draft: false
+date: 2025-03-29T08:50:16Z
+image: /img/6d948-coffee-cup-working-happy.jpg
+title: near
+url: /near
 ---
 
 # Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
