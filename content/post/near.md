@@ -5,11 +5,9 @@ tags:
 - Blockchain
 - NEAR
 date: 2025-31-08T08:50:16Z
-image: /gambar/near.png
+image: "/gambar/near.png"
 title: Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
 url: /near-blockchain/
-aliases:
- - /near-blockchain/
 draft: false
 ---
 
