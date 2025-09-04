@@ -10,8 +10,6 @@ title: Memahami Cara Kerja NEAR Protocol Blockchain Secara Mendalam
 draft: false
 ---
 
-## Memahami Cara Kerja NEAR Protocol Blockchain Secara Mendalam
-
 NEAR Protocol merupakan blockchain platform generasi baru yang dirancang untuk mengatasi masalah skalabilitas sambil tetap mempertahankan keamanan dan desentralisasi. Mari kita pelajari secara detail bagaimana NEAR bekerja.
 
 ### 1. Arsitektur Dasar NEAR
