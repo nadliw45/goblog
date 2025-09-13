@@ -4,12 +4,12 @@ tags:
 - Blockchain
 date: 2025-09-12T10:00:00Z
 image: /gambar/blockchain-algorithm.png
-title: Memahami Algoritma dalam Blockchain Secara Lengkap
+title: Memahami Algoritma dalam Blockchain
 url: /blockchain-algorithm
 draft: false
 ---
 
-## Memahami Algoritma dalam Blockchain Secara Lengkap
+## Memahami Algoritma dalam Blockchain
 
 Blockchain menggunakan berbagai algoritma kompleks untuk memastikan keamanan, konsensus, dan integritas data. Berikut penjelasan lengkap tentang algoritma-algoritma utama dalam blockchain:
 
