@@ -2,12 +2,11 @@
 author: redaksi
 tags:
 - Blockchain
-- Teknologi
-- Algoritma
 date: 2025-09-12T10:00:00Z
 image: /gambar/blockchain-algorithm.png
 title: Memahami Algoritma dalam Blockchain Secara Lengkap
-draft: true
+url: /blockchain-algorithm
+draft: false
 ---
 
 ## Memahami Algoritma dalam Blockchain Secara Lengkap
