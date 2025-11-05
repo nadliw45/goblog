@@ -6,6 +6,7 @@ date: 2025-04-29T08:50:16Z
 image: /gambar/near.png
 title: Mengenal Near lebih dekat
 url: /near
+draft: true
 ---
 
 # Mengenal NEAR Blockchain: Teknologi, Fitur, dan Ekosistem
