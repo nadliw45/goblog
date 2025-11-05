@@ -7,7 +7,7 @@ tags:
 date: 2025-09-03T08:00:00Z 
 image: /gambar/near-blockchain.png
 title: Memahami Cara Kerja NEAR Protocol Blockchain Secara Mendalam
-draft: false
+draft: true
 ---
 
 ## Cara Kerja NEAR Protocol Blockchain
