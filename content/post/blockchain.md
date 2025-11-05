@@ -6,7 +6,7 @@ date: 2025-09-12T10:00:00Z
 image: /gambar/blockchain-algorithm.png
 title: Memahami Algoritma dalam Blockchain
 url: /blockchain-algorithm
-draft: false
+draft: true
 ---
 
 ## Memahami Algoritma dalam Blockchain
