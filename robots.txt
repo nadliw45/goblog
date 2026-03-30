@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wildan.fauzy.eu.org/sitemap.xml
