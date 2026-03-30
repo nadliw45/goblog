@@ -1,10 +1,10 @@
-baseurl = "https://blog.fauzy.eu.org"
+baseurl = "https://nadliw.eth.limo"
 #copyright = " © Hak Cipta Sebagian."
 disqusshortname = ""
 languagecode = "id-ID"
 paginate = 8
 summaryLength = 25
-title = "Wildan Fauzy Blog"
+title = "nadliw.eth"
 [[menu.main]]
 name = "Jurnal"
 url = "https://jurnal.fauzy.eu.org"
