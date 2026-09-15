@@ -35,7 +35,7 @@ url = "https://wildan.fauzy.eu.org/tentang"
 weight = 8
 [[menu.main]]
 name = "About me"
-url = "https://pitak.pages.dev"
+url = "https://about.fauzy.eu.org"
 weight = 10
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
