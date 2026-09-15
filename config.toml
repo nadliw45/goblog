@@ -7,7 +7,7 @@ summaryLength = 25
 title = "Wildan Fauzy"
 [[menu.main]]
 name = "Jurnal"
-url = "https://jurnal.fauzy.eu.org"
+url = "https://medium.com/jurnal"
 weight = 5
 [[menu.main]]
 name = "Notes"
@@ -31,11 +31,11 @@ url = "https://search.fauzy.eu.org/"
 weight = 1
 [[menu.main]]
 name = "About Us"
-url = "https://blog.fauzy.eu.org/tentang"
+url = "https://wildan.fauzy.eu.org/tentang"
 weight = 8
 [[menu.main]]
 name = "About me"
-url = "https://wildan.fauzy.eu.org/"
+url = "https://pitak.pages.dev"
 weight = 10
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
